@@ -10,7 +10,7 @@ This repository serves as the root for my GitHub Pages homepage, showcasing my w
 
 - **Homepage:** [https://sloughmiller.github.io](https://sloughmiller.github.io)
 - **Home Inventory App (PWA):** [https://sloughmiller.github.io/inventory/](https://sloughmiller.github.io/inventory/)
-- **HTML Resume Site:** [https://sloughmiller.github.io/resume-site/](https://sloughmiller.github.io/resume-site/)
+- **HTML Resume Site:** [https://sloughmiller.github.io/Sterling-resume-site/](https://sloughmiller.github.io/resume-site/)
 - **PDF Resume:** [https://sloughmiller.github.io/resume.pdf](https://sloughmiller.github.io/resume.pdf)
 
 ---
