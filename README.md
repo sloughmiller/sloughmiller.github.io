@@ -1,48 +1,36 @@
 # Sterling Loughmiller | Software Engineer
 
-Welcome to my personal site, hosted via [GitHub Pages](https://pages.github.com/). This site serves as a central hub for my work in software engineering, with a focus on backend systems, automation, and real-world application development.
+Welcome to my personal site and project hub.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <img alt="Visual theme graphic" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+This repository serves as the root for my GitHub Pages homepage, showcasing my work in software engineering, backend systems, and automation. I focus on building secure, scalable, and real-world tools grounded in production experience.
 
 ---
 
 ## 🌐 Live Site
 
-Access the main homepage at:  
-➡️ [**sloughmiller.github.io**](https://sloughmiller.github.io)
+- **Homepage:** [https://sloughmiller.github.io](https://sloughmiller.github.io)
+- **Home Inventory App (PWA):** [https://sloughmiller.github.io/inventory/](https://sloughmiller.github.io/inventory/)
+- **HTML Resume Site:** [https://sloughmiller.github.io/resume-site/](https://sloughmiller.github.io/resume-site/)
+- **PDF Resume:** [https://sloughmiller.github.io/resume.pdf](https://sloughmiller.github.io/resume.pdf)
 
 ---
 
-## 📂 Projects and Resources
+## 🔧 Technologies Used
 
-- [**Home Inventory App (PWA)**](https://sloughmiller.github.io/inventory/)  
-  A fully responsive progressive web application for managing household items, categories, and storage locations.  
-  _Tech stack: React (Vite) · FastAPI · PostgreSQL · Tailwind CSS_
-
-- [**Interactive Resume Site**](https://sloughmiller.github.io/resume-site/)  
-  A professional HTML/CSS resume, optimized for web delivery and easy recruiter access.
-
-- [**Download PDF Resume**](https://sloughmiller.github.io/resume.pdf)
+- React (Vite)
+- FastAPI + PostgreSQL
+- Tailwind CSS
+- GitHub Pages + Jekyll (optional fallback)
 
 ---
 
-## 👨‍💻 About
+## 🧑‍💻 About Me
 
-With over a decade of hands-on engineering and automation experience, I bring a unique perspective to software development — grounded in real-world systems and process optimization. I specialize in:
-
-- Backend/API development
-- SQL and relational data modeling
-- Industrial and production automation
-- Secure, scalable software delivery
-
-Currently completing a B.S. in Computer Science with an emphasis in cybersecurity.
+With over 10 years of engineering experience in automation and manufacturing systems, I now focus on backend development and database engineering. I'm currently completing a B.S. in Computer Science with an emphasis in cybersecurity.
 
 ---
 
-## 📬 Contact
+## 📫 Contact
 
-- 📧 Email: [sterlingloughmiller@gmail.com](mailto:sterlingloughmiller@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/sterling-loughmiller](https://www.linkedin.com/in/sterling-loughmiller)
+- Email: [sterlingloughmiller@gmail.com](mailto:sterlingloughmiller@gmail.com)
+- LinkedIn: [linkedin.com/in/sterling-loughmiller](https://www.linkedin.com/in/sterling-loughmiller)
