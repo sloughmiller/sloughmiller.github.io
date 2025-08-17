@@ -134,6 +134,19 @@
       © <span id="y"></span> Sterling Loughmiller
     </footer>
   </div>
-  <script>document.getElementById('y').textContent = new Date().getFullYear();</script>
+  <script>document.getElementById('y').textContent = new Date().getFullYear();
+    (function () {
+      var isiOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
+      if (isiOS) {
+        document.addEventListener('click', function (e) {
+          var a = e.target.closest('a[href]');
+          if (!a) return;
+          if (a.target === '_blank') {
+            a.target = '_self';
+          }
+        }, { capture: true });
+      }
+    })();
+  </script>
 </body>
 </html>
