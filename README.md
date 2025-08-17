@@ -9,7 +9,7 @@ This repository serves as the root for my GitHub Pages homepage, showcasing my w
 ## 🌐 Live Site
 
 - **Homepage:** [https://sloughmiller.github.io](https://sloughmiller.github.io)
-- **Live App (Netlify):** [https://sloughmiller-inventoryproject.netlify.app/login](https://sloughmiller-inventoryproject.netlify.app/login)
+- **Live App (Netlify):** [https://sloughmiller-inventoryproject.netlify.app/](https://sloughmiller-inventoryproject.netlify.app/)
 - **PDF Resume:** [https://sloughmiller.github.io/Resume.pdf](https://sloughmiller.github.io/Resume.pdf)
 
 
