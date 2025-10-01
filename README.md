@@ -12,7 +12,6 @@ This repository serves as the root for my GitHub Pages homepage, showcasing my w
 - **Live App (Netlify):** [https://sloughmiller-inventoryproject.netlify.app/](https://sloughmiller-inventoryproject.netlify.app/)
 - **PDF Resume:** [https://sloughmiller.github.io/Resume.pdf](https://sloughmiller.github.io/Resume.pdf)
 
-
 ---
 
 ## 🔧 Technologies Used
